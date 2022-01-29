@@ -1,0 +1,40 @@
+[
+    {
+      "region": "Non-Domestic/Commercial",
+      "country_code": "in",
+      "url": "google.co.in",
+      "languages": [
+        {
+          "name": "3Ph",
+          "code": "en"
+        }
+      ]
+    },
+    {
+        "region": "Domestic",
+        "country_code": "in",
+        "url": "google.co.in",
+        "languages": [
+          {
+            "name": "1Ph",
+            "code": "en"
+          },
+          {
+            "name": "2Ph",
+            "code": "hi"
+          }
+        ]
+      },
+    {
+      "region": "Industrial",
+      "country_code": "ae",
+      "url": "google.ae",
+      "languages": [
+        {
+          "name": "3Ph",
+          "code": "ar"
+        }
+        
+      ]
+    }
+  ]
